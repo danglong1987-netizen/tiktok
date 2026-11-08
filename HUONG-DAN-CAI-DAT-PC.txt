@@ -1,0 +1,47 @@
+==============================================================================
+   TIKTOK ACCOUNT & SHIPPING VOUCHER CHECKER - BO CAI DAT CHO MAY TINH
+==============================================================================
+
+Chuc mung ban da so huu bo cong cu "TikTok Account & Voucher Checker".
+Ban co the su dung ung dung tren may tinh ca nhan theo 3 cach sau:
+
+------------------------------------------------------------------------------
+CACH 1: CAI TRUC TIEP THANH UNG DUNG DESKTOP (KHUYEN DUNG - NHANH NHAT)
+------------------------------------------------------------------------------
+1. Mo ung dung tren trinh duyet Chrome hoac Microsoft Edge:
+   - Duong dan xem truc tiep: https://ais-dev-r6ngwwm7uwkrlqpubpo5uu-267527988664.asia-east1.run.app
+2. Nhan vao nut mau vang "Cai len may tinh" tren thanh menu
+   hoac nhan icon cai dat tren thanh dia chi cua Chrome / Edge.
+3. Chon "Cai dat" (Install).
+4. Ngay lap tuc:
+   - Ung dung se duoc cai thanh mot phan mem Desktop Windows/Mac hoan chinh.
+   - Co bieu tuong icon tren man hinh Desktop va Start Menu.
+   - Mo trong cua so rieng biet cuc ky nhe va nhanh.
+   - Luu tru toan bo du lieu cuc bo an toan tren may tinh ban.
+
+------------------------------------------------------------------------------
+CACH 2: CHAY BANG FILE .BAT CHO WINDOWS (1-CLICK RUN)
+------------------------------------------------------------------------------
+1. Click dup vao file "chay-tiktok-checker.bat".
+2. Script se tu dong kiem tra moi truong va mo ung dung tren trinh duyet.
+
+------------------------------------------------------------------------------
+CACH 3: CHAY BANG LENH TERMINAL VOI NODE.JS
+------------------------------------------------------------------------------
+1. Mo thu muc nay trong Terminal / Command Prompt.
+2. Chay lenh:
+   npm install
+   npm run dev
+3. Truy cap dia chi: http://localhost:3000
+
+------------------------------------------------------------------------------
+CAC TINH NANG CHINH DUOC TICH HOP:
+- Kiem tra tinh trang tai khoan: Xanh (Con song / Live) - Do (Dinh chi / Khoa).
+- Kiem tra ma van chuyen: Tach 2 che do doc lap:
+  * 1. Check theo Tinh/TP cu the (Freeship 100%, Xtra theo dia phuong)
+  * 2. Check tong the toan san (Tat ca ma freeship trong vi)
+- Setup dia chi hang loat:
+  * Ho ten: Random ten + Duoi co dinh (vi du: Nguyen Van An 999).
+  * Dia chi: So nha + Ten duong random, Thon/Khu vuc co dinh.
+- Xuat file Excel CSV (UTF-8 BOM) va TXT phuc vu auto-checkout.
+==============================================================================

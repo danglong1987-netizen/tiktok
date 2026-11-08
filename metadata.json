@@ -1,0 +1,6 @@
+{
+  "name": "TikTok Account & Shipping Voucher Checker",
+  "description": "Công cụ kiểm tra tình trạng tài khoản TikTok (còn sống hay bị đình chỉ) và quét các mã giảm giá vận chuyển TikTok Shop khả dụng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
